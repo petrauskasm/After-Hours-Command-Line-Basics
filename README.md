@@ -57,4 +57,10 @@ April 8, 2019 -- Lab 11: Networking, how to access remote machines and servers.
 
 
 
+Textbook
+
+A textbook is included in this repository which covers most of the material. This textbook is a work in progress with more material
+being added monthly.
+
+
 The full schedule and information can be found at https://cbw.sh/linuxbasics
